@@ -4,4 +4,4 @@
 2. Change the directory into the `demo` folder using
    `cd JD_CSE_2102/Lab4/spr/demo` and open it on VSCode on the web browser
 
-3. By being in the demo folder, run `./mvnw test` to run the tests and `./mvnw spring-boot:run` to launch the project. After running `./mvn spring-boot:run`, click on the box that says "Open in Browser"
+3. While in the `demo` folder, run `./mvnw test` to run the tests and `./mvnw spring-boot:run` to launch the project. After running `./mvn spring-boot:run`, click on the box that says "Open in Browser"
